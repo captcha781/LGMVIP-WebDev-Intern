@@ -1,0 +1,16 @@
+.loader{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 10px solid #dcefff;
+    border-top: 10px solid blue;
+    animation: rotate 0.8s infinite; 
+  }
+  @keyframes rotate{
+    0%{
+      transform: rotate(0deg);
+    }
+   100%{
+     transform: rotate(360deg);
+   }
+  }

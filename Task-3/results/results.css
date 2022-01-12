@@ -1,0 +1,19 @@
+.result-main{
+    width: 90%;
+    margin-top: 3.5em;
+    display: block;
+    margin-left: 5%;
+    /* background-color: bisque; */
+    text-align: center;
+
+}
+.headline{
+    margin-top: 2em;
+}
+table, tr, td, th {
+    width: 40%;
+    margin-left: 25%;
+    margin-top: 2em;
+    text-align: center;
+}
+

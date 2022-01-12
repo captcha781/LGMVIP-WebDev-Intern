@@ -1,0 +1,107 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins";
+}
+
+#carousel-btn {
+  width: 10px;
+  height: 10px;
+  border: 0;
+  border-radius: 50%;
+}
+
+.nav-links {
+  padding: 3px 6px;
+  border: 0;
+  transition: all;
+  transition-duration: 1s;
+}
+
+.nav-links:hover {
+  border-bottom: 1px solid white;
+  transition: all;
+  transition-duration: 1s;
+}
+
+.card-ico-bg {
+  width: fit-content;
+  padding: 20px;
+  background-color: rgb(105, 0, 204);
+  border: 0;
+  border-radius: 50%;
+}
+
+.learn-btn {
+  background-color: #ffc107;
+  color: #000;
+  transition: all 600ms;
+}
+.learn-btn a {
+  color: #000;
+}
+
+.learn-btn a:hover {
+  color: #fff;
+}
+
+.learn-btn:hover {
+  background-color: rgb(105, 0, 204);
+  color: #fff;
+}
+.width-33 {
+  width: 33.3%;
+}
+
+.avatar-main {
+  width: 120px;
+  height: 120px;
+  border: 0;
+  border-radius: 50%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.bridge {
+  background-image: url("../assets/Newsletter/bg-image.jpg");
+  background-size: 100% 250%;
+  background-position: right;
+}
+
+.newsletter-up, .inp-grp {
+  padding: 10px;
+  outline: none;
+  color: #999999;
+  font-size: 0.8rem;
+  border: 0;
+}
+
+.sub-btn {
+  border: 0;
+  border-radius: 0px;
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+
+.send-btn:hover {
+  background-color: #ffc107;
+  color: #000;
+  transition: all 600ms;
+}
+.send-btn a:hover {
+  color: #000;
+}
+
+.send-btn a {
+  color: #fff;
+}
+
+.send-btn{
+  background-color: rgb(105, 0, 204);
+  color: #fff;
+}
