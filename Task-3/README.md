@@ -5,3 +5,8 @@
 ### Recommendation
 
   Apache2 , MySQL ( Maria-DB ) and PhpMyAdmin combination is recommended.
+
+### UserID and Password for admin-login
+
+User: admin
+Pass: admin@123
